@@ -85,6 +85,14 @@ wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 sh install.sh
 ```
 
+### Fig
+
+[Fig](https://fig.io) adds apps, shortcuts, and autocomplete to your existing terminal.
+
+Install Oh My Zsh in just one click.
+
+<a href="https://fig.io/plugins/other/ohmyzsh" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
+
 ## Using Oh My Zsh
 
 ### Plugins
